@@ -1,5 +1,6 @@
 # Inlamning-3
-Samtlig kod samt frågesvar till inlämning 3 i programmeringsmetodik.
+Samtlig kod samt frågesvar till inlämning 3 i programmeringsmetodik. 
+Det blev bara G-uppgifterna denna veckan, då det blev lite snävt med tid. 
 
 
 a) Omvandla talet 1101 0110 till dess decimala motsvarighet, både på signerad samt osignerad form.
