@@ -3,6 +3,7 @@ Samtlig kod samt frågesvar till inlämning 3 i programmeringsmetodik.
 
 
 1. Genomför nedanstående omvandlingar mellan olika talsystem:
+
 a) Omvandla talet 1101 0110 till dess decimala motsvarighet, både på signerad samt osignerad form.
 
 Osignerad: 214
